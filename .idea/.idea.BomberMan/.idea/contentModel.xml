@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mikul\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mikul\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_BomberMan.949585089.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mikul\source\repos\BomberMan" t="IncludeFlat">
+      <e p="BomberMan.sln" t="IncludeFlat" />
+      <e p="Client" t="IncludeRecursive">
+        <e p="_Imports.razor" t="Include" />
+        <e p="App.razor" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BomberMan.Client.csproj" t="IncludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="GameElement.cs" t="Include" />
+          <e p="GameLogic.cs" t="Include" />
+          <e p="GameUniverse.cs" t="Include" />
+          <e p="MovingElement.cs" t="Include" />
+          <e p="Sprites" t="Include">
+            <e p="Bomb.cs" t="Include" />
+            <e p="Box.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="Explosion.cs" t="Include" />
+            <e p="Grass.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="Wall.cs" t="Include" />
+          </e>
+          <e p="StaticElement.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="BomberMan.Client.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Game.cs" t="Include" />
+          <e p="Game.razor" t="Include" />
+          <e p="Index.cs" t="Include" />
+          <e p="Index.razor" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="MainLayout.razor" t="Include" />
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="assets" t="Include">
+            <e p="bomb.png" t="Include" />
+            <e p="box.png" t="Include" />
+            <e p="enemy.png" t="Include" />
+            <e p="explosion.jpg" t="Include" />
+            <e p="finish.jpg" t="Include" />
+            <e p="grass.png" t="Include" />
+            <e p="player.png" t="Include" />
+            <e p="wall.png" t="Include" />
+          </e>
+          <e p="css" t="Include">
+            <e p="app.css" t="Include" />
+            <e p="bootstrap" t="Include">
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="bootstrap.min.css.map" t="Include" />
+            </e>
+            <e p="open-iconic" t="Include">
+              <e p="font" t="Include">
+                <e p="css" t="Include">
+                  <e p="open-iconic-bootstrap.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="open-iconic.eot" t="Include" />
+                  <e p="open-iconic.otf" t="Include" />
+                  <e p="open-iconic.svg" t="Include" />
+                  <e p="open-iconic.ttf" t="Include" />
+                  <e p="open-iconic.woff" t="Include" />
+                </e>
+              </e>
+              <e p="FONT-LICENSE" t="Include" />
+              <e p="ICON-LICENSE" t="Include" />
+              <e p="README.md" t="Include" />
+            </e>
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="index.html" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Server" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BomberMan.Server.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="DataFetcher.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BomberMan.Server.AssemblyInfo.cs" t="Include" />
+              <e p="BomberMan.Server.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="plan1.txt" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Shared" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BomberMan.Shared.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="BomberMan.Shared.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

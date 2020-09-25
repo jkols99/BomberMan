@@ -1,0 +1,9 @@
+C:\Users\mikul\source\repos\BomberMan\Shared\bin\Debug\netstandard2.1\BomberMan.Shared.deps.json
+C:\Users\mikul\source\repos\BomberMan\Shared\bin\Debug\netstandard2.1\BomberMan.Shared.dll
+C:\Users\mikul\source\repos\BomberMan\Shared\bin\Debug\netstandard2.1\BomberMan.Shared.pdb
+C:\Users\mikul\source\repos\BomberMan\Shared\obj\Debug\netstandard2.1\BomberMan.Shared.csprojAssemblyReference.cache
+C:\Users\mikul\source\repos\BomberMan\Shared\obj\Debug\netstandard2.1\BomberMan.Shared.AssemblyInfoInputs.cache
+C:\Users\mikul\source\repos\BomberMan\Shared\obj\Debug\netstandard2.1\BomberMan.Shared.AssemblyInfo.cs
+C:\Users\mikul\source\repos\BomberMan\Shared\obj\Debug\netstandard2.1\BomberMan.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mikul\source\repos\BomberMan\Shared\obj\Debug\netstandard2.1\BomberMan.Shared.dll
+C:\Users\mikul\source\repos\BomberMan\Shared\obj\Debug\netstandard2.1\BomberMan.Shared.pdb
